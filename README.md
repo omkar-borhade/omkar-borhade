@@ -52,7 +52,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 </div>
 
 
-<!--
+
 
 ### It's not technology, but I use it. The section will be changed soon.:
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
@@ -67,14 +67,16 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>
---> 
+
 </div>
 
 ---
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+       
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omkar-borhade&theme=highcontrast" alt="GitHub Streak" /></a>=800">
+  
 </p>
 
 
@@ -91,7 +93,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=omkar-borhade&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
