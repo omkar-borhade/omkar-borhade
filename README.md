@@ -52,22 +52,6 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 </div>
 
 
-
-
-### It's not technology, but I use it. The section will be changed soon.:
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="30" height="30"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>
-
 </div>
 
 ---
@@ -75,7 +59,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
   
 <p align="center">
        
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omkar-borhade&theme=highcontrast" alt="GitHub Streak" /></a>=800">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omkar-borhade&theme=highcontrast" alt="GitHub Streak" /></a>
   
 </p>
 
@@ -86,8 +70,8 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=omkar-borhade&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-borhade&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
@@ -97,5 +81,5 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+       <img  width="1000" alt="github-snake" src="github-snake.svg" />
 </p>
