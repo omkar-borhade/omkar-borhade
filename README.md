@@ -59,11 +59,6 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack. I enjoy 
   <img width="800" alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/master/sample.svg">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 
 
