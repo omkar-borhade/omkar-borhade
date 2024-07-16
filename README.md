@@ -1,8 +1,41 @@
 
-### About Me:    
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
+### About Me
 
-Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
+I'm a seasoned full stack developer specializing in the MEAN stack—MongoDB, Express.js, Angular, and Node.js. With a passion for building scalable and efficient web applications, I thrive in architecting robust backend systems and crafting seamless user experiences on the frontend.
+
+#### Backend Expertise:
+- **Node.js**: Leveraging Node.js for server-side development, I excel in building RESTful APIs and integrating third-party services to ensure smooth application functionality.
+- **Express.js**: Utilizing Express.js to create flexible and lightweight server-side architectures, enabling rapid development and easy scalability.
+- **MongoDB**: Proficient in MongoDB for data storage, I design efficient database schemas and implement complex queries to support application requirements.
+
+#### Frontend Mastery:
+- **Angular**: Implementing Angular to develop dynamic and responsive frontend applications, I focus on creating modular components and optimizing performance for enhanced user interactions.
+- **HTML/CSS/JavaScript**: Fluent in core web technologies, I craft pixel-perfect UIs and ensure cross-browser compatibility using modern HTML5, CSS3, and JavaScript standards.
+- **Frontend Frameworks**: Experienced with frontend frameworks like Bootstrap or Material Design for UI consistency and responsiveness.
+
+#### Additional Skills:
+- **RESTful API Design**: Designing robust APIs following RESTful principles to ensure interoperability and ease of integration.
+- **Version Control**: Proficient in Git for version control, ensuring collaborative development and codebase management.
+- **Deployment and DevOps**: Familiar with Docker for containerization and CI/CD pipelines to streamline deployment processes.
+
+### Projects and Contributions:
+- **Portfolio**: Showcase your notable projects and contributions, linking to GitHub repositories or live demos to highlight your skills and accomplishments.
+- **Open Source**: Mention any contributions to open-source projects, emphasizing collaborative skills and community engagement.
+
+### Learning and Growth:
+- **Continuous Learning**: Committed to staying updated with the latest trends and technologies in web development, I regularly participate in online courses and attend tech conferences.
+- **Problem-Solving**: Enthusiastic about solving complex technical challenges and optimizing application performance through innovative solutions.
+
+### Let's Connect:
+- **LinkedIn**: Provide a link to your LinkedIn profile for professional networking and further exploration of your background.
+- **GitHub**: Invite visitors to explore your GitHub repositories for a deeper dive into your coding projects and coding style.
+
+### Reach Out:
+- **Email**: Share your contact information or invite potential collaborators to reach out for collaboration opportunities or discussions.
+
+This structured "About Me" section showcases your proficiency in MEAN stack development, highlights key skills and expertise, and encourages further exploration of your professional portfolio and achievements.
+
+
        
 ### Algorithms [LeetCode](https://leetcode.com/#)
 
