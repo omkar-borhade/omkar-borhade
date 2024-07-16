@@ -7,13 +7,13 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack. I enjoy 
 - **Frontend:** HTML, CSS, JavaScript (ES6+), React.js, Redux, Bootstrap
 - **Backend:** Node.js, Express.js, MongoDB, SQL (MySQL, PostgreSQL), RESTful APIs
 - **Tools & Technologies:** Git, Docker, GraphQL, WebSocket, AWS (EC2, S3), Firebase
-
+<!--
 ### Projects
 
 - **Project 1:** [Project Name](link) - Description of the project and your role.
 - **Project 2:** [Project Name](link) - Description of the project and your role.
 - **Project 3:** [Project Name](link) - Description of the project and your role.
-
+-->
 ---
 
 ## Languages and Tools
@@ -30,31 +30,21 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack. I enjoy 
 
 | React.js | Redux | Bootstrap | Material-UI |
 |----------|-------|-----------|-------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="55" height="55"/> |
 
 #### Backend:
 
-| Node.js | Express.js | MongoDB | PostgreSQL | Firebase |
-|---------|------------|---------|------------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="55" height="55"/> |
+| Node.js | Express.js | MongoDB | MySQL | Firebase |
+|---------|------------|---------|-------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" alt="SQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="55" height="55"/> |
 
 ### Tools & Platforms:
 
-| Git | Docker | AWS | Heroku | GraphQL |
-|-----|--------|-----|--------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="55" height="55"/> |
+| Git | Docker | AWS | Postman | 
+|-----|--------|-----|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="55" height="55"/> | 
 
-
-
-
-### Environments, Testing, Other:
-
-| Node.js | Git | Docker | Postman |
-|---------|-----|--------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="55" height="55"/> |
-
-  
-
+---
 ### OS:
 
 | Linux | Ubuntu | Kali |
@@ -64,13 +54,6 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack. I enjoy 
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkar-borhade&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
----
-
-
 
 <p align="center">
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omkar-borhade&theme=highcontrast" alt="GitHub Streak" /></a>
@@ -84,10 +67,9 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack. I enjoy 
 </p>
 
 <div align="center">
-  <img width="800" alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/master/sample.svg">
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=omkar-borhade&style=for-the-badge&color=orange" alt=""/>
 </div>
 
+<div align="center">
+  <img width="800" alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/master/sample.svg">
+</div>
