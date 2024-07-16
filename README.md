@@ -54,10 +54,9 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack. I enjoy 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=omkar-borhade&style=for-the-badge&color=orange" alt=""/>
 </div>
-
-<div align="center">
-  <img width="800" alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/master/sample.svg">
-</div>
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 
 
