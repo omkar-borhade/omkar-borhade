@@ -24,7 +24,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack. I enjoy 
 
 | React.js | Redux | Bootstrap | Material-UI | Tailwind CSS |
 |----------|-------|-----------|-------------|--------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="55" height="55"/> |
 
 #### Backend:
 
@@ -59,7 +59,6 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack. I enjoy 
 <div align="center">
   <img width="800" alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/master/sample.svg">
 </div>
-
 
 
 
