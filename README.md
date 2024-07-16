@@ -46,7 +46,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 | Linux | Ubuntu | Kali |
 |-------|--------|------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Kali" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Kali" width="55" height="55"/> |
 
 </div>
 
