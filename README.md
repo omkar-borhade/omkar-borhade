@@ -97,13 +97,6 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack. I enjoy 
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />   
 </p>
 
-## Crunching The Numbers
-[![Shohel's github stats](https://github-readme-stats.vercel.app/api?username=omkar-borhade&show_icons=true&theme=merko)](https://github.com/mdshohelrana/github-readme-stats)
-<br>
-
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-borhade&show_icons=true&theme=merko)](https://github.com/mdshohelrana/github-readme-stats)
-
 
 
 <!--
