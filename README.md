@@ -30,7 +30,8 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack. I enjoy 
 
 | Node.js | Express.js | MongoDB | MySQL | Firebase |
 |---------|------------|---------|-------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/> | <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg](https://github.com/ForkAwesome/Fork-Awesome/issues/91#issue-347721740)" alt="Express.js" width="55" height="55" style="background-color:white; padding: 5px; border-radius: 5px; border: 1px solid white;"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="55" height="55" style="background-color:white; padding: 5px; border-radius: 5px; border: 1px solid white;"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="55" height="55"/> |
+
 
 ### Tools & Platforms:
 
